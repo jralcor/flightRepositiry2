@@ -1,0 +1,238 @@
+{
+  "flights": [
+    {
+      "flightData": "25/08/2021",
+      "id": "1572IBE",
+      "origin": "Santiago de Compostela",
+      "destination": "Málaga",
+      "departureTime": 11.45,
+      "arrivalTime": 13.25,
+      "directFlight": true,
+      "scales": {
+        "firstScale": "",
+        "secondScale": ""
+      },
+      "company": "Iberia",
+      "companyLogo": "https://www.aeropuertoinfo.com/wp-content/uploads/Logo-Iberia.png",
+      "price": 90,
+      "cityImg": "https://www.hola.com/imagenes/viajes/20190204136803/malaga-48-horas-guia-ciudad/0-643-940/malaga-t.jpg",
+      "handLugagge": true
+    },
+    {
+      "flightData": "25/08/2021",
+      "id": "1525VUY",
+      "origin": "Málaga",
+      "destination": "Madrid",
+      "departureTime": 8.3,
+      "arrivalTime": 10,
+      "directFlight": true,
+      "scales": {
+        "firstScale": "",
+        "secondScale": ""
+      },
+      "company": "Vueling",
+      "companyLogo": "https://descuentocodigos.com/wp-content/uploads/2018/02/vueling-logo.jpg",
+      "price": 67,
+      "cityImg": "https://a.cdn-hotels.com/gdcs/production133/d1207/7ad2d7f0-68ce-11e8-8a0f-0242ac11000c.jpg",
+      "handLugagge": true
+    },
+    {
+      "flightData": "25/08/2021",
+      "id": "14572IBE",
+      "origin": "Tenerife",
+      "destination": "Mallorca",
+      "departureTime": 8.3,
+      "arrivalTime": 13.45,
+      "directFlight": false,
+      "scales": {
+        "firstScale": "Madrid",
+        "secondScale": ""
+      },
+      "company": "Iberia",
+      "companyLogo": "https://www.aeropuertoinfo.com/wp-content/uploads/Logo-Iberia.png",
+      "price": 72,
+      "cityImg": "https://www.spain.info/export/sites/segtur/.content/imagenes/cabeceras-grandes/baleares/catedral-santamaria-palma-s434080438.jpg",
+      "handLugagge": true
+    },
+    {
+      "flightData": "25/08/2021",
+      "id": "1582RYA",
+      "origin": "Valencia",
+      "destination": "Barcelona",
+      "departureTime": 8.45,
+      "arrivalTime": 9.5,
+      "directFlight": true,
+      "scales": {
+        "firstScale": "",
+        "secondScale": ""
+      },
+      "company": "Ryanair",
+      "companyLogo": "https://noticiasdebolsa.es/wp-content/uploads/2017/07/IMG_2373-e1526891837426.jpg",
+      "price": 90,
+      "cityImg": "https://phantom-expansion.unidadeditorial.es/fe0a224f498a353f4c2237aac2a70fb6/crop/0x0/2044x1363/resize/1200/f/webp/assets/multimedia/imagenes/2019/09/15/15685374672846.jpg",
+      "handLugagge": true
+    },
+    {
+      "flightData": "25/08/2021",
+      "id": "2592IBE",
+      "origin": "Madrid",
+      "destination": "Ibiza",
+      "departureTime": 8.45,
+      "arrivalTime": 12,
+      "directFlight": true,
+      "scales": {
+        "firstScale": "",
+        "secondScale": ""
+      },
+      "company": "Iberia",
+      "companyLogo": "https://www.aeropuertoinfo.com/wp-content/uploads/Logo-Iberia.png",
+      "price": 47,
+      "cityImg": "https://a.cdn-hotels.com/gdcs/production141/d557/7f0501b0-58f0-11e8-a5ee-0242ac110030.jpg",
+      "handLugagge": true
+    },
+    {
+      "flightData": "25/08/2021",
+      "id": "1572RYA",
+      "origin": "Valencia",
+      "destination": "Las Palmas de Gran Canaria",
+      "departureTime": 8.45,
+      "arrivalTime": 13.3,
+      "directFlight": false,
+      "scales": {
+        "firstScale": "Madrid",
+        "secondScale": ""
+      },
+      "company": "Ryanair",
+      "companyLogo": "https://noticiasdebolsa.es/wp-content/uploads/2017/07/IMG_2373-e1526891837426.jpg",
+      "price": 90,
+      "cityImg": "https://www.barcelo.com/guia-turismo/wp-content/uploads/2019/12/Que-ver-en-Gran-Canaria_1.jpg",
+      "handLugagge": true
+    },
+    {
+      "flightData": "25/08/2021",
+      "id": "4589IBE",
+      "origin": "Vigo",
+      "destination": "Menorca",
+      "departureTime": 8.45,
+      "arrivalTime": 13.3,
+      "directFlight": false,
+      "scales": {
+        "firstScale": "Barcelona",
+        "secondScale": ""
+      },
+      "company": "Iberia",
+      "companyLogo": "https://www.aeropuertoinfo.com/wp-content/uploads/Logo-Iberia.png",
+      "price": 54,
+      "cityImg": "https://www.hola.com/imagenes/viajes/20190211137137/menorca-en-invierno-baleares/0-646-457/menorca-noche-mahon-t.jpg",
+      "handLugagge": true
+    },
+    {
+      "flightData": "25/08/2021",
+      "id": "8752RYA",
+      "origin": "Sevilla",
+      "destination": "Oviedo",
+      "departureTime": 8.45,
+      "arrivalTime": 11,
+      "directFlight": true,
+      "scales": {
+        "firstScale": "",
+        "secondScale": ""
+      },
+      "company": "Rynair",
+      "price": 59,
+      "companyLogo": "https://noticiasdebolsa.es/wp-content/uploads/2017/07/IMG_2373-e1526891837426.jpg",
+      "cityImg": "https://www.turismoasturias.es/documents/11022/33922/plaza-catedral-oviedo.jpg",
+      "handLugagge": true
+    },
+    {
+      "flightData": "25/08/2021",
+      "id": "8968IBE",
+      "origin": "Santiago",
+      "destination": "Bilbao",
+      "departureTime": 8.45,
+      "arrivalTime": 10.15,
+      "directFlight": true,
+      "scales": {
+        "firstScale": "",
+        "secondScale": ""
+      },
+      "company": "Vueling",
+      "companyLogo": "https://descuentocodigos.com/wp-content/uploads/2018/02/vueling-logo.jpg",
+      "price": 44,
+      "cityImg": "https://www.barcelo.com/pinandtravel/wp-content/uploads/2017/09/que-hacer-en-bilbao-vacaciones-en-bilbao.jpg",
+      "handLugagge": true
+    },
+    {
+      "flightData": "25/08/2021",
+      "id": "4500VUY",
+      "origin": "Barcelona",
+      "destination": "Málaga",
+      "departureTime": 8.45,
+      "arrivalTime": 10,
+      "directFlight": true,
+      "scales": {
+        "firstScale": "",
+        "secondScale": ""
+      },
+      "company": "Vueling",
+      "companyLogo": "https://descuentocodigos.com/wp-content/uploads/2018/02/vueling-logo.jpg",
+      "price": 79,
+      "cityImg": "https://www.hola.com/imagenes/viajes/20190204136803/malaga-48-horas-guia-ciudad/0-643-940/malaga-t.jpg",
+      "handLugagge": true
+    },
+    {
+      "flightData": "25/08/2021",
+      "id": "5858IBE",
+      "origin": "Barcelona",
+      "destination": "A Coruña",
+      "departureTime": 13.0,
+      "arrivalTime": 16.3,
+      "directFlight": false,
+      "scales": {
+        "firstScale": "Madrid",
+        "secondScale": ""
+      },
+      "company": "Iberia",
+      "companyLogo": "https://www.aeropuertoinfo.com/wp-content/uploads/Logo-Iberia.png",
+      "price": 62,
+      "cityImg": "https://www.ejeprime.com/files/fotos/011%20ciudades/a-coruna-vista-728.jpg",
+      "handLugagge": true
+    },
+    {
+      "flightData": "25/08/2021",
+      "id": "9999KLI",
+      "origin": "Palma de Mallorca",
+      "destination": "Lanzarote",
+      "departureTime": 16.3,
+      "arrivalTime": 19.45,
+      "directFlight": true,
+      "scales": {
+        "firstScale": "",
+        "secondScale": ""
+      },
+      "company": "Ryanair",
+      "companyLogo": "https://noticiasdebolsa.es/wp-content/uploads/2017/07/IMG_2373-e1526891837426.jpg",
+      "price": 108,
+      "cityImg": "https://www.riu.com/es/binaris/lanzarote008_tcm49-165862.jpg",
+      "handLugagge": true
+    },
+    {
+      "flightData": "25/08/2021",
+      "id": "8574VUY",
+      "origin": "Madrid",
+      "destination": "Granada",
+      "departureTime": 8.45,
+      "arrivalTime": 9.3,
+      "directFlight": true,
+      "scales": {
+        "firstScale": "",
+        "secondScale": ""
+      },
+      "company": "Vueling",
+      "companyLogo": "https://descuentocodigos.com/wp-content/uploads/2018/02/vueling-logo.jpg",
+      "price": 26,
+      "cityImg": "https://blog.fuertehoteles.com/wp-content/uploads/2014/02/alhambra-granada-vista-aerea.jpg",
+      "handLugagge": true
+    }
+  ]
+}
