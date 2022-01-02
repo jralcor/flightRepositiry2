@@ -3,8 +3,8 @@
     {
       "flightData": "25/08/2021",
       "id": "1572IBE",
-      "origin": "Santiago de Compostela",
-      "destination": "Málaga",
+      "origin": "Lugo",
+      "destination": "Nueva York",
       "departureTime": 11.45,
       "arrivalTime": 13.25,
       "directFlight": true,
